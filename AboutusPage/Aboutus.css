@@ -1,0 +1,219 @@
+ body {
+	margin-left: 0px;
+	margin-right: 0px;
+	font-style: normal;
+	text-align: left;
+	background-image: url(fondo1.jpg);
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: white;
+}
+
+#conteiner {
+	width: 960px;
+	height: 1200px;
+	margin: auto;
+	/*border-style: double;*/
+	}
+
+#header {
+	width: 960px;
+	height: 100px;
+	background-color: #949494;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	}
+
+	#Title {
+		width: 960px;
+		height: 10px;
+	}
+
+	#logo{
+		width: 40px;
+		height: 40px;
+		background-image: url(logo.jpg);
+		margin-left: 10px;
+		margin-bottom: 30px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+	}
+
+#topheader {
+	width: 960px; 
+	height: 56px; 
+	background-color: rgba(170, 170, 170, 0.856);
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	text-align:center;
+	font-size: x-large;
+}
+
+#Guitars1 {
+	margin-left: 300px;
+	float: left;
+}	
+
+#Guitars2 {
+	margin-left: 20px;
+	float: left;
+
+}
+
+#Aboutus {
+	margin-left:20px;
+	float: left;
+	height: 15px;
+}
+
+#form {
+	width:450px;
+	background-color: rgba(170, 170, 170, 0.856);
+	height:400px;
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	}
+
+	#topform {
+		width:450px;
+		background-color: #949494;
+		height:20px;
+		text-align: center;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+	}
+
+#banner1 {
+	width:450px;
+	background-color: olive;
+	height:400px;
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+	margin-bottom: 57px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+#texto {
+	width: 960px;
+	height: 57px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+		}
+
+#opcion1 {
+	height: 450px;
+	width: 174px;
+	margin-left: 21px;
+	float:left;
+	background-image: url(template.option1.jpg);
+	}	
+		
+#opcion2 {
+	height: 450px;
+	width: 174px;
+	float: left;
+	margin-left:12px;
+	background-image:url(template.option2.jpg)
+	}
+			
+#opcion3 {
+	height: 450px;
+	width: 174px;
+	float: left;
+	margin-left:12px;
+	background-image:url(template.option3.jpg)
+	}
+		
+#opcion4 {
+	height: 450px;
+	width: 174px;
+	float: left;
+	margin-left:12px;
+	background-image:url(template.option4.jpg)
+	}
+#opcion5 {
+	height: 450px;
+	width: 174px;
+	float: left;
+	margin-left:12px;
+	background-image:url(template.option5.jpg)
+	}
+
+	
+#texto2 {
+	width: 960px;
+	height: 57px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	text-align: center;
+	}
+	
+#footer{
+	width:960px;
+	height: 56px;
+	margin-top: 20px;
+	float:left;
+	background-color:rgba(170, 170, 170, 0.856);
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	}
+
+	#textofooter {
+		width:300px;
+		height: 10px;
+		margin-left: 10px;
+	}
+
+
+	#facebook {
+		width:40px;
+		height: 40px;
+		float: left;
+		margin-left: 800px;
+		margin-right: 10px;
+		margin-bottom: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		
+		
+	}
+
+	#Instagram {
+		width:40px;
+		height: 40px;
+		float: left;
+		margin-bottom: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+	
+	}
+	#fender{
+		width:40px;
+		height: 40px;
+		float: left;
+		margin-left: 10px;
+		margin-bottom: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+	}
